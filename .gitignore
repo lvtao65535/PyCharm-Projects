@@ -1,5 +1,6 @@
 *.pth
 /data
 __pycache__
+.idea
 
 # .pytest_cache内部自动生成了一个gitignore
